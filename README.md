@@ -1,2 +1,3 @@
-# Cyber-security
-Implementiran "template" sajta na temu sajber bezbednosti. Korišćen HTML, CSS.
+# Cyber Security Webpage
+
+Implemented a cybersecurity-themed website template using HTML and CSS.
